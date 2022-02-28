@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyall declaration of His Excellency, the Right Honourable, James, Marquesse of Ormond, Earle of Ormond, and Ossary, &amp;c. Lord Lieu. Generall, and Generall Governour of the kingdome of Ireland. August the 11. 1649. Declaring grounds of his present ingagement, and his resolution to maintaine it, against all powers that shall oppose him.</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90185</idno>
+            <idno type="STC">Wing O453</idno>
+            <idno type="STC">Thomason E571_31</idno>
+            <idno type="STC">ESTC R203117</idno>
+            <idno type="EEBO-CITATION">99863192</idno>
+            <idno type="PROQUEST">99863192</idno>
+            <idno type="VID">165364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165364)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyall declaration of His Excellency, the Right Honourable, James, Marquesse of Ormond, Earle of Ormond, and Ossary, &amp;c. Lord Lieu. Generall, and Generall Governour of the kingdome of Ireland. August the 11. 1649. Declaring grounds of his present ingagement, and his resolution to maintaine it, against all powers that shall oppose him.</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, M.DC.XL.IX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Cromwell, Oliver --  1599-1658.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165364:1" rendition="simple:additions"/>
+            <p>The Loyall <hi>DECLARATION OF</hi> HIS EXCELLENCY, <hi>The Right Honourable, JAMES, MARQUESSE Of</hi> ORMOND, <hi>Earle of</hi> Ormond, <hi>and</hi> Oſſary, &amp;c. <hi>Lord Lieu. Generall, and Generall Governour of the KINGDOME of</hi> IRELAND. Auguſt <hi>the 11. 1649.</hi>
+            </p>
+            <p>Declaring grounds of his preſent Ingagement, and his Reſolution to maintaine it, againſt all Powers that ſhall oppoſe him.</p>
+            <p>LONDON. <hi>Printed in the Yeare, M.DC.XL.IX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165364:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:165364:2"/>
+            <head>A <hi>DECLARATION</hi> Of his Excellency, the Right Honourable, JAMES, <hi>Marqueſſe of</hi> Ormond, <hi>Earl of</hi> Ormond, <hi>and</hi> Oſſary, &amp;c.</head>
+            <p>IT hath alwaies been the obſerved practiſe of wicked Men, (as skil<g ref="char:EOLhyphen"/>full Phyſitians guild over their moſt bitter Pills, and deliver their unpleaſanteſt Potions in a delightfull Cup) to lay a faire outſide, upon their fouleſt actions, and make a plauſible entrance into their moſt execrable deſignes; writing the ſenſe of their black reſolutions in golden Characters, wrapping their moſt nefarious Plots in mantles of Innocency; and traducing others, transferre their own guile, to make it become their guiltineſſe: whilſt good men knowing innocence, to have ſo faire a face, that ſhe needs no painting; and a good Cauſe, when plainly told, to be ſufficiently pleaded; in confidence of their owne integrity and honeſty, commit their Cauſe (in a plaine dreſſe, without any other ornament than truth) to the view of the world; preſuming their Reſolutions to be grounded on ſo good reaſon, that they cannot want the equity of a candid and charitable conſtruction; which, their malitious Adverſaries with cunning ſophiſtry endeavour to aſperſe by wounding their reputations with ſcandalous ſlanders, and charging their honours with hainous accuſations; caſting falſe fires before the eyes of the Vulgar, benighted with ignorance, de<g ref="char:EOLhyphen"/>praving the ſences with unjuſt ſuſpitions of antient and approved Go<g ref="char:EOLhyphen"/>vernment, and charme them to a chearfull imbracing of their gariſh novelties: whereby at length themſelves become Lords of their Per<g ref="char:EOLhyphen"/>ſons and judgements, and enſlave both to the pleaſures of their ty<g ref="char:EOLhyphen"/>rannicall wills, making themſelves perfect Obſervers of the firſt part of that good adviſe, <hi>Be wiſe as Serpents,</hi> and leaving <hi>the innocency of Doves</hi> to the onely practiſe and portion of their injured Adverſaries.</p>
+            <pb n="2" facs="tcp:165364:3"/>
+            <p>Such was the condition of His late ſacred Majeſty of ever bleſſed memory, who in the beginning of theſe unhappy differences, being ſufficiently ſatisfied of the candour of His owne heart, and juſtice of His Cauſe, freely Declared <hi>His reſolutions for the ſatisfaction of all His People; neglecting nothing that might beget and preſerve a good under<g ref="char:EOLhyphen"/>ſtanding between Him and His Subjects; in giving many Princely teſti<g ref="char:EOLhyphen"/>monies of His grace and favour, in paſſing ſeverall Acts, to the abridging of His Royall Prerogative for the inlargement of their Liberties:</hi> Not<g ref="char:EOLhyphen"/>withſtanding which, theſe bloody <hi>Catalines,</hi> His Enemies, as if they had put on a reſolution not to be ſatisfied with any thing but His Majeſties deſtruction; did by ſecret and ſubtile practiſes, beſpatter His Majeſties reputation, poſſeſſing the People with feigned <hi>Feares and Jealouſies,</hi> whiſpering to their abuſed ſenſes, ſtrange imaginations, <hi>that His Ma<g ref="char:EOLhyphen"/>jeſty did exdeavour to alter the Religion eſtabliſhed, and introduce Popery; to ſubvert the fundamentall Lawes of the Land, and to alienate the Peoples Liberties into the French bondage; whereby their Eſtates ſhould become liable to His Will and pleaſure:</hi> by which, they begot a miſ-underſtan<g ref="char:EOLhyphen"/>ding between the KING and His People; which having fully effected, for the further advancing of their owne ambitious ends, they plunged the People into a moſt barbarous and bloody <hi>Rebellion against the</hi> KING'S <hi>Sacred Perſon, His Crowne and Dignities,</hi> and for the better colour of their miſchievous intentions, <hi>they make a ſhew of Reformation,</hi> and under pretence <hi>to aboliſh Superſtition,</hi> they have baniſhed all de<g ref="char:EOLhyphen"/>cency out of the Church; uſing the <hi>reverence of Religion,</hi> as a mantle to cover their impiety, blaſphemy, Treaſon, Sacriledge and Rebellion, and that they might ſhew themſelves Graduates in <hi>Machiavel</hi>'s Poli<g ref="char:EOLhyphen"/>tiques, and with better skill delude His Majeſties wel-meaning Sub<g ref="char:EOLhyphen"/>jects, beſides their Oath of Allegiance, Proteſtation, and ſeverall De<g ref="char:EOLhyphen"/>clarations, they cauſe a Solemne League and Covenant to be generally taken within their Quarters, whereby <hi>with hands lifted up to the moſt high God, they bind themſelves to maintaine the true Proteſtant Religion, to preſerve His Majeſties Royall Perſon, Queen, and Poſterity, in the ful<g ref="char:EOLhyphen"/>neſſe of their glory and ſplendor, with the continuance of His Majeſties juſt and Royall Prerogatives, that they would alwaies maintaine the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, and the Liberty of the Subject;</hi> by which faire and ſpecious pretences they won the People, (who uſually fathom the myſteries of State by their owne ſhallow capacities) to a ready com<g ref="char:EOLhyphen"/>pliance with them; who thought neither Life nor Eſtate too precious to be hazarded in their ſervice: by whoſe aſſiſtance, having got the grand Treaſury of the Kingdome into their cuſtody, wanting neither
+<pb n="3" facs="tcp:165364:3"/>Men nor Money, they proſecute their Deſigne with all rage and vio<g ref="char:EOLhyphen"/>lence, to the plunder and ruine of all that did oppoſe them, not ſpa<g ref="char:EOLhyphen"/>ring the lives of any who ſeemed to ſtand as ſcreens between them and their purpoſes: but at length, having ſubdued the Loyall Party, and got His Majeſties Royall Perſon into their poſſeſſion, after a long and tedious Impriſonment, wherein all the common comforts of this life were withheld from Him, (ſave the peace of a good Conſcience, which they could not ſequeſter:) In the time of a Treaty, the Faith of the Kingdome being paſſed for His ſecurity, when He had granted the perfection of their deſires, and given them all poſſible ſatisfaction, when the hopes of peace, and the generall conceipt of His Majeſties ſafe returne had ſwolne the Peoples hearts to an <hi>hyperbole</hi> of happi<g ref="char:EOLhyphen"/>neſſe, even then to ſhew, that nothing would ſatisfie them but Blood and Dominion, they abruptly breake off the Treaty, and by Force of Armes, hurry Him from one Priſon to another, till at length they bring Him before the Judgement Seat, where having loaden Him with ſcorne and contempt, and upbraided with the infamous brands of <hi>Tyrant, Traytor,</hi> and <hi>Murderer;</hi> they diſmiſſed Him with the Sentence of Death: And that they might juſtifie the <hi>Gun-powder-Traytors,</hi> who having ſome tincture of Grace, contrived their Treaſon to be ſecretly acted in a Cellar, as bluſhing, that the light ſhould be a witneſſe of their prodigious deeds: Theſe, as an addition of His ſorrow, in a triumphant manner, with Drums beating, and Colours flying, on the 30. <hi>Jan.</hi> 1649. (a black &amp; diſmall day!) they bring his ſacred Majeſty to the Scaffold, where without reſpect of Place or Perſon, either of the Repreſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntor, or Repreſented, at mid day, in the face of the Sun, &amp; generall view of His People, they execute their grim, and bloody Sentence by the common Executioner, who to the terrour of the Beholders, with his Inſtrument of death, ſeperated His Royall Head from His Body; whom malice it ſelfe could not juſtly ſtaine with any notorious perſonall fault, being a <hi>King</hi> of high &amp; antient deſcent, full of all Imperiall virtues, Religion, Juſtice, clemency, patience, learning, wiſdome, memory, affability, mag<g ref="char:EOLhyphen"/>nanimity, and all other high and glorious endowments that are requi<g ref="char:EOLhyphen"/>ſite for the perfect accompliſhment of an abſolute KING. And al<g ref="char:EOLhyphen"/>beit, that Princes hold their Crownes immediately of, and from God, by right of lawfull Succeſſion and Inheritance, inherent by Royall Blood; yet by force of Armes they keep His preſent Majeſty from His undoubted Right, and abſolve the People from their due Allegi<g ref="char:EOLhyphen"/>ance and fealty to their lawfull Soveraigne, Declaring, and ſolemnly proclaiming throughout the Kingdome, <hi>That they will abſolutely aboliſh
+<pb n="4" facs="tcp:165364:4"/>Monarchy, and perpetuate the Government to themſelves and their poſte<g ref="char:EOLhyphen"/>rity in a confuſed Anarchy.</hi>
+            </p>
+            <p>And now I cannot but declare, that from my ſoule I doe abhorre, and utterly deteſt, that execrable and prodigious murder which was executed upon the Perſon of my late dread Soveraigne; which was a Treaſon of that horror, and monſtrous nature, (as was excellently ex<g ref="char:EOLhyphen"/>preſſed by a learned Lawyer in caſe of the Gun-powder Treaſon) <hi>that before now, the tongue of Man never delivered, the ear of Man never heard, the heart of Man never conceited, nor the malice of helliſh or earthly Devil ever practiſed:</hi> For, if it be abominable to murder the leaſt, if to touch Gods Anointed be to oppoſe themſelves againſt God, if by blood to ſubvert Princes, States, &amp; Kingdoms be hateful to God and Man, as all true Chriſtians muſt acknowledg; then how much more than monſtrous muſt all Men judge the horror of this Treaſon, to murder and ſubvert ſuch a KING; to race out ſuch a Progeny, to overthrow ſuch a Go<g ref="char:EOLhyphen"/>vernment, ſo compleat and abſolute, that God approves, the world admires, all true Engliſh hearts honour and reverence, and onely the Pope and his Adherents, themſelves and their Abettors envie and maligne.</p>
+            <p>Nor can I leave hear, having to doe with offences ſo exorbitant and tranſcendent, and aggregated of ſo many bloody and fearfull crimes, as they cannot be aggravated by any inference, argument, or circum<g ref="char:EOLhyphen"/>ſtance whatſoever, being of the firſt impreſſion, and therfore without any Name, which might be adaequate ſufficient to expreſſe it, given by any Legiſt, that ever made, or writ of any Lawes: For, the higheſt Trea<g ref="char:EOLhyphen"/>ſon, that all they could imagine, they called it onely, <hi>Crimen laeſae Ma<g ref="char:EOLhyphen"/>jestatis,</hi> the violating of the Majeſty of the Prince: but this Treaſon doth want an apt name, as tending not onely to the hurt, but to the death of the KING, and not to the death of the KING onely, but of His whole Kingdomes, that is, <hi>to the deſtruction and diſſolution of the whole frame and fabrick of the antient, famous, and ever-flouriſhing Monarchy; even the deletion of our whole Name and Nation.</hi>
+            </p>
+            <p>For repairing and reſtoring the honour whereof, for bringing theſe high and capitall Delinquents to due and impartiall juſtice, for the reſtoring the true Proteſtant Religion to its antient ſplendour, the e<g ref="char:EOLhyphen"/>ſtabliſhing His Majeſties Thrones in power and peace; for the main<g ref="char:EOLhyphen"/>tenance of the antient Priviledges of Parliament, the Law of the Land, and Liberty of the People, and (I take God to witneſſe) for no other end, by vertue of His Majeſties Commiſſion I have taken up Armes, and doe ſolemnly proteſt in the preſence of Almighty God, <hi>that I will
+<pb n="5" facs="tcp:165364:4"/>never lay them downe, while God ſhall enable me to hold them up; till I have fully finiſhed my intended worke, and reduced all in rebellion to His Majeſties obedience.</hi>
+            </p>
+            <p>Nor ſhall any proſperous ſucceſſe in my Adverſaries, or adverſe, in my ſelfe, diſcourage me, in proſecution of my reſolved enterpriſe; not being any thing amated at my late unhappy fortune before <hi>Dub<g ref="char:EOLhyphen"/>lin;</hi> (where I was betrayed by my new modelled Souldiers; which Defeat, was not yet ſo great as my Enemies pretend, nor their loſſe ſo ſmall, as themſelves would perſwade) but ſhall ſpeedily returne to that Siege, from whence I reſolve not to depart, till it ſhall pleaſe God to deliver that City up into my hands; not doubting but by Gods aſ<g ref="char:EOLhyphen"/>ſiſtance in a ſmall time, to turne their triumphant Feſtivall of Thankſ<g ref="char:EOLhyphen"/>giving, into a day of Humiliation.</p>
+            <p>And for as much as mercy, is the ſureſt foundation whereon a King can eſtabliſh his Throne, I declare, <hi>that I ſhall alwaies become an impor<g ref="char:EOLhyphen"/>tunate Interceſſour, to His Majeſty, to receive all ſuch to mercy, as ſhall humbly ſubmit themſelves, and acknowledge their offences, and that all con<g ref="char:EOLhyphen"/>venient Liberty may be granted to the eaſe of Tender Conſciences; and that all ſuch may be received to pardon, who have been deluded, and drawne away by the ſubtile inſinuations of the crafty Adverſary, and have been only Spectators or Abettors of that horrible Murder; and that indempnity may be granted to all ſave thoſe that have been principall and grand Actors in that monſtrous and prodigious Treaſon, who can expect no pardon.</hi>
+            </p>
+            <p>And whereas by credible information I am given to underſtand, that <hi>OLIVER CROMWELL,</hi> with a numerous Army, lies now at <hi>Milford,</hi> intending to make a ſpeedy entrance into this King<g ref="char:EOLhyphen"/>dome, to joyne with thoſe, <hi>now in rebellion againſt His Majeſty;</hi> to the diſſipation of this Army under my command, and promotion of the Rebels intereſt here: Wherefore I declare, <hi>that I am ſo farre from being any whit daunted at the noiſe of their numbers, that my encourage<g ref="char:EOLhyphen"/>ment is ſwolne to a full meaſure, not onely with the ſenſe of my ability to encounter them; but my aſſured confidence, that (by Gods aſſiſtance) we ſhall utterly deſtroy them and their rebellious Hoſt.</hi>
+            </p>
+            <p>And I doe further declare, <hi>that I am fully reſolved, and doe hereby command all Officers and Commanders, both in Field and Garriſon, not to capitulate with any of them, upon any termes ſave in the language of the Sword: but upon all occaſions to fight it out, to the laſt Man.</hi> Nor doe I make any doubt, but that I ſhall be able to give a ſpeedy accompt of this City &amp; Kingdom, which I hope ſhortly to reduce to His Majeſties obedience: And I am confident, <hi>that the God in who<g ref="char:cmbAbbrStroke">̄</g> we truſt, will be the
+<pb n="6" facs="tcp:165364:5"/>Tower of our defence,</hi> and as we owne his Cauſe, ſo he will owne us for his owne; and as from nothing he gave us a beginning, and from a ſmall beginning, hath made us a powerfull Army, and given almoſt all the ſtrong Garriſons in the Kingdome into our poſſeſſion, cauſing our Enemies to become our Friends, ſo he will now deliver up theſe our proud and implacable enemies into our hands, making them and the world to know, that <hi>he is our God, and we his People.</hi> And now with this comfort I ſhall conclude, that maugre the malice, power, and fury of thoſe inſolent Regicides our Enemies, this preſent deſigne, in which I am ingaged, ſhall altogether tend to the glory of God, the honour of our Religion, the Safety of his moſt Excellent Majeſty, and the Royall Family, the ſecurity of His Kingdomes, the extirpation of Errours, and ſuppreſſion of Rebellion; and I doubt not but my pro<g ref="char:EOLhyphen"/>greſſe herein ſhall be continually attended with the bleſſing of God, and the prayers of the Church.</p>
+            <closer>
+               <dateline>
+                  <hi>From our Rendezvous neer</hi> Dublin, <date>Auguſt <hi>the</hi> 11<hi rend="sup">th</hi>. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
